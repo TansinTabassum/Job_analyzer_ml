@@ -1,0 +1,6 @@
+transformers==4.38.2
+torch==2.2.2
+gradio
+beautifulsoup4
+requests
+pandas
