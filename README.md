@@ -1,6 +1,6 @@
 # 🚀 Job Analyzer AI
 
-An intelligent AI-powered system that analyzes job descriptions and predicts suitable job roles using Machine Learning and NLP.
+An intelligent AI-powered system that analyzes job descriptions and predicts suitable job roles using Machine Learning and NLP.   LIVE: https://huggingface.co/spaces/tansin99/Job_Analyzer 
 
 ---
 
