@@ -87,7 +87,7 @@ python app.py
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Name**
 
 * GitHub: https://github.com/TansinTabassum
 
